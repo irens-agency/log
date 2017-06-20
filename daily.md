@@ -12,5 +12,5 @@
 **Андрей**
 * Изучаю новую системность:
   1. Trello
-2. UML
-3. Markdown
+  2. UML
+  3. Markdown
