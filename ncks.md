@@ -10,3 +10,8 @@ NatashaClub Kiss Sender
 * Html parser - JSoup
 * DB - Postgres, H2DB(embedded), JDBI
 * GUI - JFoenix
+
+---
+
+##### Диаграмма испльзуемых классов с данными
+![ncksimage](img/ncks_model.png)
